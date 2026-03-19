@@ -94,15 +94,6 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 
-<img width="1679" height="621" alt="Screenshot 2026-03-16 154622" src="https://github.com/user-attachments/assets/68635278-e8cc-4458-a31e-d1d0286378ae" />
-
-
-
-
-
-
-
-
 <img width="749" height="712" alt="Screenshot 2026-03-16 154631" src="https://github.com/user-attachments/assets/c494fa64-8416-4e34-97e1-35997c5b6473" />
 
 
