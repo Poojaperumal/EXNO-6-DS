@@ -35,7 +35,7 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 
-<img width="1714" height="194" alt="Screenshot 2026-03-12 154153" src="https://github.com/user- attachments/assets/375805bc-59e3-4eee-9640-eb9fa5471695" />
+<img width="1714" height="194" alt="Screenshot 2026-03-12 154153" src="https://github.com/user-attachments/assets/375805bc-59e3-4eee-9640-eb9fa5471695" />
 
 
 
@@ -80,15 +80,11 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 
-<img width="831" height="568" alt="Screenshot 2026-03-12 155718" src="https://github.com/user-attachments/assets/0c79656a-2dc2-44ab-ab9d-0cbb0093099c" />
-
-
-
-
-
-
 <img width="755" height="588" alt="Screenshot 2026-03-12 155533" src="https://github.com/user-attachments/assets/a59286ec-7546-497f-a341-128d901bff9e" />
 
+
+
+<img width="831" height="568" alt="Screenshot 2026-03-12 155718" src="https://github.com/user-attachments/assets/0c79656a-2dc2-44ab-ab9d-0cbb0093099c" />
 
 
 
